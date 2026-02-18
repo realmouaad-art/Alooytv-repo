@@ -1,1 +1,9 @@
-{"manifest_version": 2, "repositories": [{"id": "cloudstream", "name": "CloudStream", "description": "A powerful and customizable media streaming application.", "source": "https://github.com/cloudstream/cloudstream"}]}
+{
+  "name": "Alooy TV Extension",
+  "version": "1.0",
+  "manifest": {
+    "type": "cloudstream",
+    "url": "https://bw.alooytv6.xyz/"
+  },
+  "description": "Alooy TV is an extension for CloudStream providing access to various content."
+}
