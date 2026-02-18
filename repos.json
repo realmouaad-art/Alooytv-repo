@@ -1,0 +1,1 @@
+{"manifest_version": 2, "repositories": [{"id": "cloudstream", "name": "CloudStream", "description": "A powerful and customizable media streaming application.", "source": "https://github.com/cloudstream/cloudstream"}]}
