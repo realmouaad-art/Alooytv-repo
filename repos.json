@@ -1,9 +1,1 @@
-{
-  "name": "Alooy TV Extension",
-  "version": "1.0",
-  "manifest": {
-    "type": "cloudstream",
-    "url": "https://bw.alooytv6.xyz/"
-  },
-  "description": "Alooy TV is an extension for CloudStream providing access to various content."
-}
+{"repos":[{"name":"Alooytv","description":"A CloudStream extension for streaming content.","author":"realmouaad-art","date":"2026-02-18 15:02:48","version":"1.0.0","url":"https://github.com/realmouaad-art/Alooytv-repo"}]}
